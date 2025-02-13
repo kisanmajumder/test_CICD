@@ -13,6 +13,7 @@ __pycache__/
 *.csv
 *.h5
 *.pickle
+*.coverage
 
 # Ignore log files
 *.log
